@@ -1,0 +1,11 @@
+reddit:
+  client_id: reddit client id goes here
+  client_secret: reddit client secret goes here
+  username: reddit username goes here
+  password: reddit password goes here
+  user_agent: script:geo1088/mod-apps-poster:0.0.1 (by /u/geo1088)
+target_submission_id: id of the submission to make comments on goes here (e.g. "nvljs4")
+username_question: text of the column treated as the username goes here (e.g. "What is your Reddit username?")
+ignored_questions:
+  - a list of columns to exclude from the output (e.g. "Timestamp")
+  - you can list as many as you want
